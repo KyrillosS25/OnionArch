@@ -1,0 +1,14 @@
+C:\Users\kyrilloss\source\repos\APIAPP\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\kyrilloss\source\repos\APIAPP\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\kyrilloss\source\repos\APIAPP\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\kyrilloss\source\repos\APIAPP\Service\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\kyrilloss\source\repos\APIAPP\Service\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\kyrilloss\source\repos\APIAPP\Service\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\kyrilloss\source\repos\APIAPP\Service\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\kyrilloss\source\repos\APIAPP\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\kyrilloss\source\repos\APIAPP\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\kyrilloss\source\repos\APIAPP\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\kyrilloss\source\repos\APIAPP\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\kyrilloss\source\repos\APIAPP\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\kyrilloss\source\repos\APIAPP\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\kyrilloss\source\repos\APIAPP\Service\obj\Debug\netcoreapp3.1\Service.pdb
